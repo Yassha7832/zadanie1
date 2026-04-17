@@ -1,0 +1,31 @@
+const IMAGE_SRCS = [
+
+  "https://raw.githack.com/Yassha7832/zadanie1/main/0199e9fc-b5dd-7558-8568-cab92d964cb0.jpg",
+
+  "https://raw.githack.com/Yassha7832/zadanie1/main/019d2d9e-025a-7124-9bc6-a3d66f602498.jpg",
+
+  "https://raw.githack.com/Yassha7832/zadanie1/main/0192f050-1995-72de-a7e4-221abf063ea6.jpg",
+
+  "https://raw.githack.com/Yassha7832/zadanie1/main/01953bcc-5159-7376-994d-71755e414fc1.jpg",
+
+  "https://raw.githack.com/Yassha7832/zadanie1/main/019cb72e-562e-7aaf-ad61-c97f02ec61c8.jpg",
+
+  "https://raw.githack.com/Yassha7832/zadanie1/main/0196dcf2-c43c-7f23-90a4-2de429147752.jpg"
+
+]
+;const IMAGE_ASPECTS = [1, 1, 1, 1, 1, 1];
+const FACE_NAMES = [
+
+  "LUNCH",
+
+  "A MASKED BALL",
+
+  "THE SUBWAY",
+
+  "GOVERNMENT BUREAU",
+
+  "THE WAITING ROOM",
+
+  "LANDSCAPE WITH FIGURES"
+
+];
